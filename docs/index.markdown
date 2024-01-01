@@ -7,12 +7,13 @@ layout: page
 
 <h1>About me</h1><img src="me.jpg" alt="michael-scherer" width="100"/>
 
-I am a bioinformatician working in (single-cell) epigenomics. Currently, I am working at the [Centre for Genomic Regulation](https://crg.eu) in Barcelona in the [Single Cell and Synthetic Genomics of Blood Formation](https://www.crg.eu/en/programmes-groups/velten-lab) group head by Lars Velten. My CV is available as a PDF [here](CV.pdf).
+I am a bioinformatician working in (single-cell) epigenomics and cancer. Currently, I am working as a group leader at the [German Cancer Research Center](https://www.dkfz.de/de/index.html) (DKFZ) located in Heidelberg, Germany within the [Division of Cancer Epigenomics](https://www.dkfz.de/en/CanEpi/Cancer_epigenomics_main_neu.html). My CV is available as a PDF [here](CV.pdf).
 
 <h1>Employments</h1>
 
 * 2016-2020: PhD student at the Max Planck Institute for Informatics and Saarland University, Saarbr&uuml;cken,Germany
-* Since 2021: Postdoctoral Researchat at the Centre for Genomic Regulation, Barcelona, Spain
+* 2021-2023: Postdoctoral Researcher at the [Centre for Genomic Regulation](https://www.crg.eu/en/programmes-groups/velten-lab), Barcelona, Spain
+* Since 2024: Group Leader at the DKFZ, Heidelberg, Germany
 
 <h1>Education</h1>
 
