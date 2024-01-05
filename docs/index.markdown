@@ -11,9 +11,9 @@ I am a bioinformatician working in (single-cell) epigenomics and cancer. Current
 
 <h1>Employments</h1>
 
-* 2016-2020: PhD student at the Max Planck Institute for Informatics and Saarland University, Saarbr&uuml;cken,Germany
+* 2016-2020: PhD student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/research-group-computational-biology/research-groups) and [Saarland University](https://www.uni-saarland.de/lehrstuhl/walter/epigenetik.html), Saarbr&uuml;cken,Germany
 * 2021-2023: Postdoctoral Researcher at the [Centre for Genomic Regulation](https://www.crg.eu/en/programmes-groups/velten-lab), Barcelona, Spain
-* Since 2024: Group Leader at the DKFZ, Heidelberg, Germany
+* Since 2024: Group Leader at the [DKFZ](https://www.dkfz.de/en/CanEpi/Cancer_epigenomics_main_neu.html), Heidelberg, Germany
 
 <h1>Education</h1>
 
@@ -28,3 +28,7 @@ I am a bioinformatician working in (single-cell) epigenomics and cancer. Current
 * Bianchi, A., Scherer, M. et al. (2022). scTAM-seq enables targeted high-confidence analysis of DNA methylation in single cells, Genome Biology, 23, 229, doi: [10.1101/2022.04.11.487648](https://doi.org/10.1186/s13059-022-02796-7).
 
 For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=_Tp4E-4AAAAJ) account. 
+
+<h1>Contact<h1>
+
+If you want to get in touch, drop me an [e-mail](michael.scherer@dkfz-heidelberg.de).
