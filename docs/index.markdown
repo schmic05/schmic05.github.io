@@ -7,13 +7,13 @@ layout: page
 
 <h1>About me</h1><img src="me.jpg" alt="michael-scherer" width="100"/>
 
-I am a bioinformatician working in (single-cell) epigenomics and cancer. Currently, I am working as a group leader at the [German Cancer Research Center](https://www.dkfz.de/de/index.html) (DKFZ) located in Heidelberg, Germany within the [Division of Cancer Epigenomics](https://www.dkfz.de/en/CanEpi/Cancer_epigenomics_main_neu.html). My CV is available as a PDF [here](CV.pdf).
+I am a bioinformatician working in (single-cell) epigenomics and cancer. Currently, I am working as a [group leader](https://www.dkfz.de/en/employees/michael-scherer) at the [German Cancer Research Center](https://www.dkfz.de/de/index.html) (DKFZ) located in Heidelberg, Germany within the [Division of Cancer Epigenomics](https://www.dkfz.de/en/CanEpi/Cancer_epigenomics_main_neu.html). My CV is available as a PDF [here](CV.pdf).
 
 <h1>Employments</h1>
 
 * 2016-2020: PhD student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/research-group-computational-biology/research-groups) and [Saarland University](https://www.uni-saarland.de/lehrstuhl/walter/epigenetik.html), Saarbr&uuml;cken,Germany
 * 2021-2023: Postdoctoral Researcher at the [Centre for Genomic Regulation](https://www.crg.eu/en/programmes-groups/velten-lab), Barcelona, Spain
-* Since 2024: Group Leader at the [DKFZ](https://www.dkfz.de/en/CanEpi/Cancer_epigenomics_main_neu.html), Heidelberg, Germany
+* Since 2024: Group Leader at the [DKFZ](https://www.dkfz.de/en/epigenomik/computational-and-single-cell-epigenomics), Heidelberg, Germany
 
 <h1>Education</h1>
 
@@ -26,10 +26,11 @@ I am a bioinformatician working in (single-cell) epigenomics and cancer. Current
 * Scherer, M., et al. (2020). Quantiative Comparison of Within-Sample Heterogeneity Scores for DNA Methylation Data. Nucleic Acids Research, 48(8), e46, doi: [10.1093/nar/gkaa120](https://academic.oup.com/nar/article/48/8/e46/5760751).
 * Scherer, M., et al. (2020). Reference-free deconvolution, visualization and interpretation of complex DNA methylation data using DecompPipeline, MeDeCom and FactorViz. Nature Protocols, 15, 3240-3263, doi: [10.1038/s41596-020-0369-6](https://www.nature.com/articles/s41596-020-0369-6).
 * Bianchi, A., Scherer, M., et al. (2022). scTAM-seq enables targeted high-confidence analysis of DNA methylation in single cells, Genome Biology, 23, 229, doi: [10.1101/2022.04.11.487648](https://doi.org/10.1186/s13059-022-02796-7).
-* Scherer, M., Singh, I., et al. (2024). Somatic epimutations enable single-cell lineage tracing in native hematopoiesis across the murine and human lifespan, BioRxiv, doi: [10.1101/2024.04.01.587514](https://doi.org/10.1101/2024.04.01.587514).
+* Scherer, M., Singh, I., Braun, M., Szu-Tu, C. , et al. (2025). Clonal tracing with somatic epimutations
+reveals dynamics of blood ageing. Nature, 643, 478-487. doi: [10.1038/s41586-025-09041-8](https://doi.org/10.1038/s41586-025-09041-8])
 
 For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=_Tp4E-4AAAAJ) account. 
 
 <h1>Contact<h1>
 
-If you want to get in touch, drop me an [e-mail](michael.scherer@dkfz-heidelberg.de).
+If you want to get in touch, drop me an [e-mail](mailto:michael.scherer@dkfz-heidelberg.de).
