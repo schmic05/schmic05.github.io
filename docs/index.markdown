@@ -33,4 +33,4 @@ For a full list of publications, see my [Google Scholar](https://scholar.google.
 
 <h1>Contact<h1>
 
-If you want to get in touch, drop me an [e-mail](mailto:michael.scherer@dkfz-heidelberg.de).
+If you want to get in touch, drop me an email to michael.scherer[at]kfz-heidelberg.de.
